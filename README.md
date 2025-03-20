@@ -1,4 +1,4 @@
-## 👋 Hey there! I'm [NIJ Padaliya]  
+## 👋 Hey there! I'm [NIJ PADALIYA]  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=32CD32&width=500&lines=WordPress+Developer+%7C+Open+Source+Enthusiast;Building+Awesome+WordPress+Plugins;Contributor+to+WordPress+Community)](https://git.io/typing-svg)  
 
